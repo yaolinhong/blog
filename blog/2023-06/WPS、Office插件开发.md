@@ -79,9 +79,10 @@ ribbon配置
 2. 一套代码、打包后一次性安装 word、wps vsto插件
 
  ## 插件效果
+|word插件|wps插件|
+|:----:|:----:|
+|<img src="https://github.com/yaolinhong/blog/blob/main/static/word%E6%8F%92%E4%BB%B6%E6%95%88%E6%9E%9C.png?raw=true"></img>|<img src="https://github.com/yaolinhong/blog/blob/main/static/wps%E6%8F%92%E4%BB%B6%E6%95%88%E6%9E%9C.png?raw=true "></img>|
 
- ![word插件]( "todo")
- ![wps插件]( "todo")
 
 
 ## 过程中坑: 
