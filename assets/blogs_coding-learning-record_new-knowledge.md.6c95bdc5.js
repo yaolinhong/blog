@@ -1,0 +1,15 @@
+import{_ as a,o as s,c as n,X as e}from"./chunks/framework.92e7fb7b.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"blogs/coding-learning-record/new-knowledge.md","filePath":"blogs/coding-learning-record/new-knowledge.md"}'),l={name:"blogs/coding-learning-record/new-knowledge.md"},o=e(`<h2 id="位运算" tabindex="-1">位运算 <a class="header-anchor" href="#位运算" aria-label="Permalink to &quot;位运算&quot;">​</a></h2><ul><li><a href="https://poe.com/s/8e38IAssLMHBMCW3oRgp" target="_blank" rel="noreferrer">https://poe.com/s/8e38IAssLMHBMCW3oRgp</a></li><li>优点</li></ul><div class="language-"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki material-theme-palenight"><code><span class="line"><span style="color:#A6ACCD;">效率高：位运算是对二进制位的直接操作，比一般的算术运算和逻辑运算更高效。它可以在一条指令中完成多个操作，因此可以提高代码的执行速度和性能。</span></span>
+<span class="line"><span style="color:#A6ACCD;"></span></span>
+<span class="line"><span style="color:#A6ACCD;">节省空间：位运算可以将多个状态或选项使用较少的二进制位表示，从而节省存储空间。这在需要处理大量数据或对性能要求较高的场景中特别有用。</span></span>
+<span class="line"><span style="color:#A6ACCD;"></span></span>
+<span class="line"><span style="color:#A6ACCD;">适用于某些特定问题：位运算在某些问题和算法中非常有用，例如处理图像、压缩算法、权限控制等。它可以简化代码实现并提高处理效率。</span></span>
+<span class="line"><span style="color:#A6ACCD;"></span></span>
+<span class="line"><span style="color:#A6ACCD;">缺点：</span></span>
+<span class="line"><span style="color:#A6ACCD;"></span></span>
+<span class="line"><span style="color:#A6ACCD;">可读性较差：位运算涉及对二进制位的直接操作，对于不熟悉位运算的开发者来说，代码可读性较差。这可能导致代码难以理解、维护和调试。</span></span>
+<span class="line"><span style="color:#A6ACCD;"></span></span>
+<span class="line"><span style="color:#A6ACCD;">可移植性差：位运算的结果可能依赖于底层的二进制表示和硬件架构。在不同的平台和环境中，位运算的结果可能不一致，导致代码在不同环境下表现不同。</span></span>
+<span class="line"><span style="color:#A6ACCD;"></span></span>
+<span class="line"><span style="color:#A6ACCD;">难以调试：由于位运算操作是直接在二进制位上进行的，调试过程中很难直观地观察和理解中间结果。这可能增加调试的复杂性和困难度。</span></span>
+<span class="line"><span style="color:#A6ACCD;"></span></span>
+<span class="line"><span style="color:#A6ACCD;">综上所述，位运算在 JavaScript 领域具有一些优势，如高效性能和节省空间。然而，它也存在一些缺点，如可读性较差和可移植性差。在使用位运算时，需权衡其优势和缺点，并根据具体情况和需求选择是否使用。在编写位运算代码时，应注重代码的可读性、可维护性和可移植性，并添加适当的注释和文档说明。</span></span></code></pre></div><h2 id="消除异步传染性" tabindex="-1">消除异步传染性 <a class="header-anchor" href="#消除异步传染性" aria-label="Permalink to &quot;消除异步传染性&quot;">​</a></h2><p>需要在catch里面做逻辑处理</p><ul><li>场景</li></ul><ol><li>如任意api 全局自动前端刷新token</li><li>react suspense</li></ol><h2 id="非对称加密" tabindex="-1">非对称加密 <a class="header-anchor" href="#非对称加密" aria-label="Permalink to &quot;非对称加密&quot;">​</a></h2><ul><li>rsa 公钥私钥配对</li><li>https中的加密 为啥需要证书？</li></ul><h2 id="vo-、-dto" tabindex="-1">VO 、 DTO <a class="header-anchor" href="#vo-、-dto" aria-label="Permalink to &quot;VO 、 DTO&quot;">​</a></h2><p>DTO（Data Transfer Object）和VO（Value Object）都是用于在系统之间传输数据的对象。</p>`,11),p=[o];function t(c,r,i,d,C,A){return s(),n("div",null,p)}const u=a(l,[["render",t]]);export{_ as __pageData,u as default};
