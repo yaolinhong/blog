@@ -1,0 +1,26 @@
+{
+  "hash": "ddd18c6a",
+  "browserHash": "19458af9",
+  "optimized": {
+    "vue": {
+      "src": "../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "95233bc7",
+      "needsInterop": false
+    },
+    "vitepress-plugin-comment-with-giscus": {
+      "src": "../../../node_modules/vitepress-plugin-comment-with-giscus/lib/giscus.js",
+      "file": "vitepress-plugin-comment-with-giscus.js",
+      "fileHash": "0a874202",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-I2UDPAZT": {
+      "file": "chunk-I2UDPAZT.js"
+    },
+    "giscus-a53917f0-SIIV5BE7": {
+      "file": "giscus-a53917f0-SIIV5BE7.js"
+    }
+  }
+}
