@@ -42,7 +42,7 @@ export default defineConfig({
           { text: 'reactNative-start', link: "/blogs/coding-learning-record/reactNative-start" },
           { text: 'mysql', link: '/blogs/coding-learning-record/mysql' },
           { text: 'java版本管理', link: "/blogs/coding-learning-record/sdk-manage" },
-          { text: 'linux 设置sh定时任务', link: "/blogs/coding-learning-record/crontab" },
+          { text: 'linux 设置sh定时任务', link: "/blogs/anything/crontab" },
         ],
         collapsed: false
       },
