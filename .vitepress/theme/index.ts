@@ -1,6 +1,7 @@
 import DefaultTheme from 'vitepress/theme';
 import giscusTalk from 'vitepress-plugin-comment-with-giscus';
 import { useData, useRoute } from 'vitepress';
+import Layout from './Layout.vue';
 
 export default {
   ...DefaultTheme,
@@ -8,6 +9,7 @@ export default {
     DefaultTheme.enhanceApp(ctx);
     // ...
   },
+  Layout:Layout,
   setup() {
     // Get frontmatter and route
     const { frontmatter } = useData();
